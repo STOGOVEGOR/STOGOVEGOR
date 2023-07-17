@@ -1,10 +1,10 @@
 ### Egor Stogov
-## LinkedIn: https://www.linkedin.com/in/egor-stogov/
-## Phone: +38267387325
+#### LinkedIn: https://www.linkedin.com/in/egor-stogov/
+#### Phone: +38267387325
 
-# Python
-# English
-# Strong desire to work
+#### Python
+#### English
+#### Strong desire to work
 
 <!--
 **STOGOVEGOR/STOGOVEGOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
